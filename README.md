@@ -23,6 +23,6 @@ just to document my progress. The list will expand as I continue to learn new co
 This is the make and break month it either I give up and delete this repo with shame :(.
 Or I actually pull through and learn something.
 
-[ ] Learn C programming
+- [ ] Learn C programming
 
 * C is everwhere (apparently) I always thought I could avoid it but here we go (ツ)_/¯
